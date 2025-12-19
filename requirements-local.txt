@@ -1,0 +1,14 @@
+# Requirements for local LLM inference (Hugging Face)
+httpx>=0.24.0
+torch>=2.0.0
+transformers>=4.35.0
+accelerate>=0.25.0
+
+# Optional: 4-bit quantization for memory efficiency
+# bitsandbytes>=0.41.0  # Uncomment if you want 4-bit quantization (Linux only)
+
+# Optional: Visualization
+matplotlib>=3.5.0
+
+# Optional: llama.cpp for efficient CPU inference
+# llama-cpp-python>=0.2.0

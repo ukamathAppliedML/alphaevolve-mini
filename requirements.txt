@@ -1,0 +1,2 @@
+# Core requirements (minimal)
+httpx>=0.24.0
