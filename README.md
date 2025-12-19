@@ -568,14 +568,6 @@ MaximizationEvaluator(
 
 ## How It Compares to Full AlphaEvolve
 
-| Aspect | Full AlphaEvolve | AlphaEvolve-Mini |
-|--------|------------------|------------------|
-| **Scale** | Thousands of parallel evaluations | Single machine |
-| **Models** | Gemini 2.0 Flash/Pro | Any local or cloud model |
-| **Infrastructure** | Google data centers | Your laptop |
-| **Problems** | 50+ verified math problems | 3 example problems |
-| **Purpose** | Production discoveries | Education & experimentation |
-
 The core algorithms are the same:
 - ✅ MAP-Elites quality-diversity
 - ✅ Island-based parallel evolution  
