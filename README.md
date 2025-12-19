@@ -55,7 +55,7 @@ EVOLUTION COMPLETE
 
 ## Overview
 
-AlphaEvolve-Mini captures the essential architecture of [Google DeepMind's AlphaEvolve](https://deepmind.google/discover/blog/alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algorithms/) in ~2000 lines of clean, documented Python code. It combines:
+AlphaEvolve-Mini captures the essential architecture of [Google DeepMind's AlphaEvolve](https://deepmind.google/discover/blog/alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algorithms/). It combines:
 
 - **Large Language Models** for intelligent code mutations
 - **Evolutionary algorithms** (MAP-Elites + Island Model) for population diversity
